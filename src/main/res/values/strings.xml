@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Container</string>
+	<string name="version">2.27</string>
+    <string name="version_code">86</string>
+    <string name="ok">OK</string>
+    <string name="dropbox_app_key">gni6hbw2it20ed8</string> <!-- APPKEY for Dropbox -->
+    <string name="dropbox_app_secret">pmzuh9j6ubgrn1o</string> <!-- APP SECRET for Dropbox -->
+</resources>

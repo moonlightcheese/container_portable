@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="scale_array">
+		<item>TRUCK SCALE 1</item>
+		<item>TRUCK SCALE 2</item>
+		<item>FLOOR SCALE 1</item>
+		<item>FLOOR SCALE 2</item>
+		<item>FLOOR SCALE 3</item>
+	</string-array>
+	<string-array name="dir_array">
+		<item>INBOUND</item>
+		<item>OUTBOUND</item>
+	</string-array>
+</resources>

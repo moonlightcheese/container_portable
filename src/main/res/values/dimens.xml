@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="inb_txt_sz">6.0pt</dimen>
+	<dimen name="ship_header_txt_sz">18.0sp</dimen>
+	<dimen name="ship_header_padding">8.0dip</dimen>
+	<dimen name="inb_btn_w">140px</dimen>
+	<dimen name="inb_btn_h">60px</dimen>
+</resources>
